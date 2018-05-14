@@ -1,0 +1,8 @@
+{
+  "name": "pectres",
+  "app_id": "9e5c9564",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
